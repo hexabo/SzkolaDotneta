@@ -1,0 +1,14 @@
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\bin\Debug\net8.0\M2_typy_danych.exe
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\bin\Debug\net8.0\M2_typy_danych.deps.json
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\bin\Debug\net8.0\M2_typy_danych.runtimeconfig.json
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\bin\Debug\net8.0\M2_typy_danych.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\bin\Debug\net8.0\M2_typy_danych.pdb
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.AssemblyInfoInputs.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.AssemblyInfo.cs
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.csproj.CoreCompileInputs.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\refint\M2_typy_danych.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.pdb
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.genruntimeconfig.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\ref\M2_typy_danych.dll
