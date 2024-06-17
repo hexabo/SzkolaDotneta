@@ -1,0 +1,15 @@
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\bin\Debug\net8.0\M2_zmienne.exe
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\bin\Debug\net8.0\M2_zmienne.deps.json
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\bin\Debug\net8.0\M2_zmienne.runtimeconfig.json
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\bin\Debug\net8.0\M2_zmienne.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\bin\Debug\net8.0\M2_zmienne.pdb
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.AssemblyInfoInputs.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.AssemblyInfo.cs
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.csproj.CoreCompileInputs.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.sourcelink.json
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\refint\M2_zmienne.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.pdb
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\M2_zmienne.genruntimeconfig.cache
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_zmienne\obj\Debug\net8.0\ref\M2_zmienne.dll
