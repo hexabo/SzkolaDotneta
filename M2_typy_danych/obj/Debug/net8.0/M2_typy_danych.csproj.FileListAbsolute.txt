@@ -12,3 +12,4 @@ C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\refi
 C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.pdb
 C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.genruntimeconfig.cache
 C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\ref\M2_typy_danych.dll
+C:\Users\hexabo\RiderProjects\SzkolaDotneta\M2_typy_danych\obj\Debug\net8.0\M2_typy_danych.sourcelink.json

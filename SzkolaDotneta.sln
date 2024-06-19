@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2_typy_danych", "M2_typy_danych\M2_typy_danych.csproj", "{2DF464F2-AD8A-4E19-BF4A-91172E4A62F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2_zmienne", "M2_zmienne\M2_zmienne.csproj", "{47DD5980-2D2E-4D68-8119-5F478081FA80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2DF464F2-AD8A-4E19-BF4A-91172E4A62F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DF464F2-AD8A-4E19-BF4A-91172E4A62F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DF464F2-AD8A-4E19-BF4A-91172E4A62F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DD5980-2D2E-4D68-8119-5F478081FA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DD5980-2D2E-4D68-8119-5F478081FA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DD5980-2D2E-4D68-8119-5F478081FA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DD5980-2D2E-4D68-8119-5F478081FA80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

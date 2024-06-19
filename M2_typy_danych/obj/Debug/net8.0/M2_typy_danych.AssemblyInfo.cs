@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M2_typy_danych")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69092bdc21059cdea5961878d752610367eaf26a")]
 [assembly: System.Reflection.AssemblyProductAttribute("M2_typy_danych")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M2_typy_danych")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
