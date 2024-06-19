@@ -5,9 +5,9 @@ class Program
     static void Main(string[] args)
     {
         // zad 1
-        string imie = "Jan";
-        string nazwisko = "Kowalski";
-        int wiek = 33;
+        string imie = "Bartosz";
+        string nazwisko = "Lemiech";
+        int wiek = 30;
         char plec = 'm';
         string PESEL = "90010133333";
         string ID = "123456789";
@@ -20,19 +20,19 @@ class Program
         Console.WriteLine($"{c}{b}{a}");
 
         //zad 3
-        double Diagonal(double a, double b)
+        double Przekatna(double a, double b)
         {
             return Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));
         }
 
         Console.WriteLine("Podaj dlugosc prostokata: ");
-        double bokA = Convert.ToDouble(Console.ReadLine());
+        double bokA = Double.Parse(Console.ReadLine());
 
         Console.WriteLine("Podaj szerokosc prostokata: ");
-        double bokB = Convert.ToDouble(Console.ReadLine());
+        double bokB = Double.Parse(Console.ReadLine());
 
-        double d = Diagonal(bokA, bokB);
-        Console.WriteLine($"Przekatna to: {d}");
+        double diagonal = Przekatna(bokA, bokB);
+        Console.WriteLine($"Przekatna to: {diagonal}");
 
         //zad 4
         int v1;
